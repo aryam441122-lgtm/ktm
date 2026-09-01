@@ -1,0 +1,4 @@
+owner: ktmlauncher
+repo: ktm
+provider: github
+updaterCacheDirName: ktmlauncher-updater
